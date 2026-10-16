@@ -1,0 +1,27 @@
+name: EnQrypta Crypto Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      api-url:
+        required: true
+        type: string
+      notification-email:
+        required: false
+        type: string
+      nightly-job-task-id:
+        required: false
+        type: string
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  scan:
+    uses: dhyey-qvh/enqrypta-actions/.github/workflows/enqrypta-opengrep.yml@enqrypta-opengrep-workflow-v5
+    with:
+      api-url: ${{ inputs.api-url }}
+      notify-on-complete: ${{ inputs.notification-email != '' }}
+      notification-email: ${{ inputs.notification-email }}
+      nightly-job-task-id: ${{ inputs.nightly-job-task-id }}
