@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT — NO REAL EMPLOYEE
+Restricted payroll export
+Employee: Jordan Example001
+Email: employee001@example.com
+Annual salary: USD 66750
+SSN: 900-21-2001
+Bank routing number: 021000021
+Bank account: 000000000001

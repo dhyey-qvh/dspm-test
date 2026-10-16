@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "services": [
+    {
+      "name": "demo-billing",
+      "owner": "Finance",
+      "environment": "test"
+    },
+    {
+      "name": "demo-hr",
+      "owner": "People",
+      "environment": "test"
+    }
+  ]
+}

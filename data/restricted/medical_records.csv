@@ -1,0 +1,41 @@
+record_id,customer_id,patient_name,medical_record_number,diagnosis,icd10_code,medication,insurance_member_id,encounter_date,synthetic
+1,1,Avery Example001,DEMO-MRN-000001,Hypertension,I10,Lisinopril,DEMO-INS-00000001,2026-10-01,True
+2,2,Avery Example002,DEMO-MRN-000002,Asthma,J45.909,Albuterol,DEMO-INS-00000002,2026-10-01,True
+3,3,Avery Example003,DEMO-MRN-000003,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000003,2026-10-01,True
+4,4,Avery Example004,DEMO-MRN-000004,Hypertension,I10,Lisinopril,DEMO-INS-00000004,2026-10-01,True
+5,5,Avery Example005,DEMO-MRN-000005,Asthma,J45.909,Albuterol,DEMO-INS-00000005,2026-10-01,True
+6,6,Avery Example006,DEMO-MRN-000006,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000006,2026-10-01,True
+7,7,Avery Example007,DEMO-MRN-000007,Hypertension,I10,Lisinopril,DEMO-INS-00000007,2026-10-01,True
+8,8,Avery Example008,DEMO-MRN-000008,Asthma,J45.909,Albuterol,DEMO-INS-00000008,2026-10-01,True
+9,9,Avery Example009,DEMO-MRN-000009,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000009,2026-10-01,True
+10,10,Avery Example010,DEMO-MRN-000010,Hypertension,I10,Lisinopril,DEMO-INS-00000010,2026-10-01,True
+11,11,Avery Example011,DEMO-MRN-000011,Asthma,J45.909,Albuterol,DEMO-INS-00000011,2026-10-01,True
+12,12,Avery Example012,DEMO-MRN-000012,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000012,2026-10-01,True
+13,13,Avery Example013,DEMO-MRN-000013,Hypertension,I10,Lisinopril,DEMO-INS-00000013,2026-10-01,True
+14,14,Avery Example014,DEMO-MRN-000014,Asthma,J45.909,Albuterol,DEMO-INS-00000014,2026-10-01,True
+15,15,Avery Example015,DEMO-MRN-000015,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000015,2026-10-01,True
+16,16,Avery Example016,DEMO-MRN-000016,Hypertension,I10,Lisinopril,DEMO-INS-00000016,2026-10-01,True
+17,17,Avery Example017,DEMO-MRN-000017,Asthma,J45.909,Albuterol,DEMO-INS-00000017,2026-10-01,True
+18,18,Avery Example018,DEMO-MRN-000018,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000018,2026-10-01,True
+19,19,Avery Example019,DEMO-MRN-000019,Hypertension,I10,Lisinopril,DEMO-INS-00000019,2026-10-01,True
+20,20,Avery Example020,DEMO-MRN-000020,Asthma,J45.909,Albuterol,DEMO-INS-00000020,2026-10-01,True
+21,21,Avery Example021,DEMO-MRN-000021,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000021,2026-10-01,True
+22,22,Avery Example022,DEMO-MRN-000022,Hypertension,I10,Lisinopril,DEMO-INS-00000022,2026-10-01,True
+23,23,Avery Example023,DEMO-MRN-000023,Asthma,J45.909,Albuterol,DEMO-INS-00000023,2026-10-01,True
+24,24,Avery Example024,DEMO-MRN-000024,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000024,2026-10-01,True
+25,25,Avery Example025,DEMO-MRN-000025,Hypertension,I10,Lisinopril,DEMO-INS-00000025,2026-10-01,True
+26,26,Avery Example026,DEMO-MRN-000026,Asthma,J45.909,Albuterol,DEMO-INS-00000026,2026-10-01,True
+27,27,Avery Example027,DEMO-MRN-000027,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000027,2026-10-01,True
+28,28,Avery Example028,DEMO-MRN-000028,Hypertension,I10,Lisinopril,DEMO-INS-00000028,2026-10-01,True
+29,29,Avery Example029,DEMO-MRN-000029,Asthma,J45.909,Albuterol,DEMO-INS-00000029,2026-10-01,True
+30,30,Avery Example030,DEMO-MRN-000030,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000030,2026-10-01,True
+31,31,Avery Example031,DEMO-MRN-000031,Hypertension,I10,Lisinopril,DEMO-INS-00000031,2026-10-01,True
+32,32,Avery Example032,DEMO-MRN-000032,Asthma,J45.909,Albuterol,DEMO-INS-00000032,2026-10-01,True
+33,33,Avery Example033,DEMO-MRN-000033,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000033,2026-10-01,True
+34,34,Avery Example034,DEMO-MRN-000034,Hypertension,I10,Lisinopril,DEMO-INS-00000034,2026-10-01,True
+35,35,Avery Example035,DEMO-MRN-000035,Asthma,J45.909,Albuterol,DEMO-INS-00000035,2026-10-01,True
+36,36,Avery Example036,DEMO-MRN-000036,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000036,2026-10-01,True
+37,37,Avery Example037,DEMO-MRN-000037,Hypertension,I10,Lisinopril,DEMO-INS-00000037,2026-10-01,True
+38,38,Avery Example038,DEMO-MRN-000038,Asthma,J45.909,Albuterol,DEMO-INS-00000038,2026-10-01,True
+39,39,Avery Example039,DEMO-MRN-000039,Type 2 diabetes,E11.9,Metformin,DEMO-INS-00000039,2026-10-01,True
+40,40,Avery Example040,DEMO-MRN-000040,Hypertension,I10,Lisinopril,DEMO-INS-00000040,2026-10-01,True

@@ -1,0 +1,11 @@
+From: billing@example.com
+To: customer001@example.com
+Subject: Synthetic payment support fixture
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+SYNTHETIC TEST MESSAGE. Public payment test number; no real account.
+Cardholder: Avery Example001
+Card number: 4111111111111111
+Expiry: 02/2030
+Billing email: customer001@example.com

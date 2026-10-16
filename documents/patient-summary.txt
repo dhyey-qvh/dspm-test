@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT — NO REAL PATIENT
+Confidential patient encounter summary
+Patient: Avery Example001
+Email: customer001@example.com
+Medical record number: DEMO-MRN-000001
+Diagnosis: Hypertension (ICD-10 I10)
+Medication: Lisinopril
+Insurance member ID: DEMO-INS-00000001
+Encounter date: 2026-10-01
